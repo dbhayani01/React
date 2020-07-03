@@ -23,7 +23,6 @@ class Contact extends Component {
         // event.preventDefault();
     }
     render() {
-
         return (
             <div className="container">
                 <div className="row">
